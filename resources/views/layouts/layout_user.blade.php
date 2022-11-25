@@ -17,7 +17,6 @@
         <img src="{{ asset('img/icon.png') }}" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
         Agen X Order
       </a>
-      <a class="button" style="color: white;" href="/login">Admin? Login Here!</a>
     </div>
   </nav>
   <div class="container">

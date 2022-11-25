@@ -20,7 +20,7 @@
 <body>
     <widget type="ticket" class="--flex-column">
         <div class="top --flex-column">
-            <div class="bandname -bold">Agen X Booking Tiket Detail</div>
+            <div class="bandname -bold">Agen X Order Tiket Detail</div>
             <div class="tourname">Konser Musik</div>
             <div class="deetz --flex-row-j!sb">
                 <div class="event --flex-column">
@@ -48,7 +48,7 @@
         </div>
         <div class="rip"></div>
         <div class="bottom --flex-column">
-            <center><h4>Kode Booking - {{ $t->kode }}</h4></center>
+            <center><h4>Kode Pemesanan - {{ $t->kode }}</h4></center>
         </div>
         @endforeach
     </widget>
